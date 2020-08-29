@@ -7,7 +7,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 - 🔭 I’m currently working on DeHazing Images
 - 🌱 I’m currently learning Deep Learning
 - :smile: I’m looking to collaborate on ML/Data Science Projects
-- 💬 Ask me about Hackathons, ML, Computer Vision
+- 💬 Let's talk about Hackathons, ML, Computer Vision
 
 ### Connect with me:
 
