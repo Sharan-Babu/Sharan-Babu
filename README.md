@@ -1,6 +1,8 @@
 ### Hi there, I am Sharan 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sharan-babu.github.io)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sharan-babu.github.io) 
+[![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.slideshare.net/BabuSharan1/sharan-babu-resume) 
+[![Certificates](https://img.shields.io/website?label=Certificates&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/drive/folders/1UW60hjMCKVmR_2KxrkwtZi_4AgwU2ars?usp=sharing)
 
 I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Science.   
 - ⚡ Curiously exploring the depths of Deep Learning and SOTA models.
@@ -21,6 +23,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 [youtube]:https://www.youtube.com/channel/UC4Wg5P3wHNq9IrMxseafI6w/videos?view_as=subscriber
 [linkedin]:https://www.linkedin.com/in/sharan-babu-39a757197/
 [medium]:https://medium.com/@sharanbabu2001
+[resume]:https://www.slideshare.net/BabuSharan1/sharan-babu-resume
 <br>
 ## Skills, Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
