@@ -9,7 +9,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 - 🔭 I’m currently working on DeHazing Images.
 - 🌱 Currently learning Deep Learning.
 - :smile: Looking to collaborate on ML/Data Science Projects.
-- 💬 Let's talk about Hackathons, Machine Learning, Computer Vision.
+- 💬 Let's talk about Hackathons, Machine Learning or Computer Vision.
 - :email:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 ### Connect with me:
 
