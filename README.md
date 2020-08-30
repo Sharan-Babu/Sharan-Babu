@@ -25,6 +25,11 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 [medium]:https://medium.com/@sharanbabu2001
 [resume]:https://www.slideshare.net/BabuSharan1/sharan-babu-resume
 <br>
+### Achievements:
+:trophy: <b>IBM National Hackathon</b> - Top 16<br>
+:trophy: <b>BitHacks Hackathon</b> - Best Undergraduate Hack<br>
+:trophy: <b>Inter College Coding Competition</b> - Top 50
+<br>
 ## Skills, Languages and Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
