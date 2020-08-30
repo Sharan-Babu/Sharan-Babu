@@ -26,7 +26,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 [resume]:https://www.slideshare.net/BabuSharan1/sharan-babu-resume
 <br>
 ### Achievements:
-:trophy: <b>IBM National Hackathon</b> - Top 16<br>
+:trophy: <b>IBM-Nasscom National Hackathon</b> - Top 16<br>
 :trophy: <b>BitHacks Hackathon</b> - Best Undergraduate Hack<br>
 :trophy: <b>Inter College Coding Competition</b> - Top 50
 <br>
