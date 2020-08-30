@@ -26,7 +26,6 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 [medium]:https://medium.com/@sharanbabu2001
 [resume]:https://www.slideshare.net/BabuSharan1/sharan-babu-resume
 [email]:sharanbabu2001@gmail.com
-[mailto]:(mailto:sharanbabu2001@gmail.com)
 <br>
 ## Skills, Languages and Tools:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
