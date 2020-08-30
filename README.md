@@ -10,7 +10,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 - 🌱 I’m currently learning Deep Learning.
 - :smile: I’m looking to collaborate on ML/Data Science Projects.
 - 💬 Let's talk about Hackathons, ML, Computer Vision.
-- :email: [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
+- :email:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 ### Connect with me:
 
 [<img align="left" alt="sharan-babu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
