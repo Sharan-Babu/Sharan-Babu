@@ -7,8 +7,8 @@
 I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Science.   
 - ⚡ Curiously exploring the depths of Deep Learning and SOTA models.
 - 🔭 I’m currently working on DeHazing Images.
-- 🌱 I’m currently learning Deep Learning.
-- :smile: I’m looking to collaborate on ML/Data Science Projects.
+- 🌱 Currently learning Deep Learning.
+- :smile: Looking to collaborate on ML/Data Science Projects.
 - 💬 Let's talk about Hackathons, ML, Computer Vision.
 - :email:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 ### Connect with me:
