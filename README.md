@@ -20,7 +20,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 
 [website]:https://sharan-babu.github.io
 [webdevplaylist]:https://sharan-babu.github.io
-[youtube]:https://www.youtube.com/channel/UC4Wg5P3wHNq9IrMxseafI6w/videos?view_as=subscriber
+[youtube]:https://www.youtube.com/channel/UC6rcxJf-GLoLT19PpYdL1mw
 [linkedin]:https://www.linkedin.com/in/sharan-babu-39a757197/
 [medium]:https://medium.com/@sharanbabu2001
 [resume]:https://www.slideshare.net/BabuSharan1/sharan-babu-resume
