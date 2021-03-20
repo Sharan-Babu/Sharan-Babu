@@ -28,7 +28,7 @@ I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Sci
 ### Achievements:
 :trophy: <b>IBM-Nasscom National Hackathon</b> - Top 16<br>
 :trophy: <b>BitHacks Hackathon</b> - Best Undergraduate Hack<br>
-:trophy: <b>Inter College Coding Competition</b> - Top 50
+:trophy: <b>Facebook 2020 Developers Community Challenge</b> - Regional Winner
 <br>
 ## Skills, Languages and Tools
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
