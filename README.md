@@ -6,7 +6,7 @@
 
 I am an aspiring Software Engineer pursuing an undergraduate degree in Computer Science.   
 - ⚡ Curiously exploring Data Structures and Algorithms.
-- 🔭 I’m currently working on contributing to open Source Projects.
+- 🔭 I’m currently working on contributing to Open Source Projects.
 - 🌱 Currently learning GraphQL.
 - :smile: Looking to collaborate on ML/SWE Projects.
 - 💬 Let's talk about Hackathons, Machine Learning or Computer Vision.
