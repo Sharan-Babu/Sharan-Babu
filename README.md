@@ -5,10 +5,10 @@
 [![Certificates](https://img.shields.io/website?label=Certificates&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/drive/folders/1UW60hjMCKVmR_2KxrkwtZi_4AgwU2ars?usp=sharing)
 
 I am an aspiring Data Scientist pursuing an undergraduate degree in Computer Science.   
-- ⚡ Curiously exploring the depths of Deep Learning and SOTA models.
-- 🔭 I’m currently working on DeHazing Images.
-- 🌱 Currently learning Deep Learning.
-- :smile: Looking to collaborate on ML/Data Science Projects.
+- ⚡ Curiously exploring Data Structures and Algorithms.
+- 🔭 I’m currently working on contributing to open Source Projects.
+- 🌱 Currently learning GraphQL.
+- :smile: Looking to collaborate on ML/SWE Projects.
 - 💬 Let's talk about Hackathons, Machine Learning or Computer Vision.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 ### Connect with me:
