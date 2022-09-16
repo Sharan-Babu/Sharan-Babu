@@ -6,10 +6,10 @@
 
 I am an aspiring Software Engineer pursuing an undergraduate degree in Computer Science.   
 - ⚡ Curiously exploring Large Language Models.
-- 🔭 I’m currently working on contributing to Open Source Projects.
+- 🔭 I’m currently working on Information Retrieval Systems.
 - 🌱 Currently learning NLP.
 - :smile: Looking to collaborate on ML/SWE Projects.
-- 💬 Let's talk about Hackathons, Machine Learning or Computer Vision.
+- 💬 Let's talk about Hackathons, Projects or Machine Learning.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 ### Connect with me:
 
