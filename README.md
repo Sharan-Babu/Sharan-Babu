@@ -10,6 +10,14 @@ Currently pursuing a Masters degree in Computer Science.
 - :smile: Experimenting with Vector Embeddings (storage and manipulation).
 - 💬 Let's talk about Hackathons, Projects or Machine Learning.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
+
+### My past projects with LLMS:
+1. Unlatent - second brain: https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D
+
+2. Rolesix - roleplay with multiple characters: https://www.loom.com/share/3ca08c287241420281101d726393c440?sid=bc2f7b93-9d05-4bd2-88d8-940f33dcb442
+
+3. Vidtheta - Video processing and generating chapters and summaries: https://devpost.com/software/vidtheta
+   
 ### Connect with me:
 
 [<img align="left" alt="sharan-babu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
