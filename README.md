@@ -12,13 +12,19 @@ Currently pursuing a Masters degree in Computer Science.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 
 ### My past projects with LLMS:
-1. Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
+1. UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
 
-2. Rolesix - Roleplay with multiple characters: [Link](https://www.loom.com/share/3ca08c287241420281101d726393c440?sid=bc2f7b93-9d05-4bd2-88d8-940f33dcb442)
+2. Breaking Reversal Curse: [Link](https://x.com/sharanbabu2001/status/1763334666906657051?s=20)
+   
+3. Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
-3. Vidtheta - Video processing and generating chapters and summaries: [Link](https://devpost.com/software/vidtheta)
+4. Rolesix - Roleplay with multiple characters: [Link](https://www.loom.com/share/3ca08c287241420281101d726393c440?sid=bc2f7b93-9d05-4bd2-88d8-940f33dcb442)
 
-4. UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
+5. Vidtheta - Video processing and generating chapters and summaries: [Link](https://devpost.com/software/vidtheta)
+
+
+
+
    
 ### Connect with me:
 
