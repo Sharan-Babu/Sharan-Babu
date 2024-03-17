@@ -22,6 +22,8 @@ Currently pursuing a Masters degree in Computer Science.
 
 5. Vidtheta - Video processing and generating chapters and summaries: [Link](https://devpost.com/software/vidtheta)
 
+6. Inco - Innovating Order placement and incentives through coupons for sellers: [Link](Innovating Order placement and incentives through coupons for sellers)
+
 
 
 
