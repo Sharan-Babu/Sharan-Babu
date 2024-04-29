@@ -45,7 +45,7 @@ Currently pursuing a Masters degree in Computer Science.
 [twitter]:https://twitter.com/sharanbabu2001
 <br>
 ### Achievements:
-:trophy: <b>TigerGraph Graph Database Million Dollar Challenge</b>b> - 3rd Prize (Most Innovative Award)<br>
+:trophy: <b>TigerGraph Graph Database Million Dollar Challenge</b> - 3rd Prize (Most Innovative Award)<br>
 :trophy: <b>Facebook F8 Refresh Hackathon</b> - Honorary Award<br>
 :trophy: <b>IBM-Nasscom National Hackathon</b> - Top 16<br>
 :trophy: <b>BitHacks Hackathon</b> - Best Undergraduate Hack<br>
