@@ -11,23 +11,17 @@ Currently pursuing a Masters degree in Computer Science.
 - 💬 Let's talk about Hackathons, Projects or Machine Learning.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 
-### My past projects with LLMS:
-1. UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
+### Recent LLM projects:
 
-2. Breaking Reversal Curse: [Link](https://x.com/sharanbabu2001/status/1763334666906657051?s=20)
+1. KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
+
+2. UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
+
+3. Breaking Reversal Curse: [Link](https://x.com/sharanbabu2001/status/1763334666906657051?s=20)
    
-3. Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
-
-4. Rolesix - Roleplay with multiple characters: [Link](https://www.loom.com/share/3ca08c287241420281101d726393c440?sid=bc2f7b93-9d05-4bd2-88d8-940f33dcb442)
-
-5. Vidtheta - Video processing and generating chapters and summaries: [Link](https://devpost.com/software/vidtheta)
-
-6. Inco - Innovating Order placement and incentives through coupons for sellers: [Link](https://github.com/Sharan-Babu/Inco)
+4. Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
 
-
-
-   
 ### Connect with me:
 
 [<img align="left" alt="sharan-babu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
