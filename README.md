@@ -14,6 +14,7 @@ Currently pursuing a Masters degree in Computer Science.
 ### LLM projects:
 
 - pralok.com - generative UI chat assistant
+- inferO - token stream - context manipulation
 - KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
 - UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
 - Manim Alternative - for explainer videos
