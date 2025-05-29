@@ -11,15 +11,14 @@ Currently pursuing a Masters degree in Computer Science.
 - 💬 Let's talk about Hackathons, Projects or Machine Learning.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 
-### Recent LLM projects:
+### LLM projects:
 
-1. KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
-
-2. UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
-
-3. Breaking Reversal Curse: [Link](https://x.com/sharanbabu2001/status/1763334666906657051?s=20)
-   
-4. Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
+- pralok.com - generative UI chat assistant
+- KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
+- UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
+- Manim Alternative - for explainer videos
+- promptweaver.me - multi-modality parsing
+- Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
 
 ### Connect with me:
