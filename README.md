@@ -4,11 +4,10 @@
 [![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/file/d/1WiggB27Fvxaipq2EC4ULqpMA7OsxvlpL/view) 
 [![Certificates](https://img.shields.io/website?label=Certificates&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/drive/folders/1UW60hjMCKVmR_2KxrkwtZi_4AgwU2ars?usp=sharing)
 
-Currently pursuing a Masters degree in Computer Science.   
-- ⚡ Curiously exploring Large Language Models.
-- 🔭 I’m currently working on Information Retrieval Systems.
-- :smile: Experimenting with Vector Embeddings (storage and manipulation).
-- 💬 Let's talk about Hackathons, Projects or Machine Learning.
+AI Engineer, recent CS Grad.   
+- ⚡ Curiously exploring what is possible with Large Language Models.
+- 🔭 Interested in Information Retrieval Systems.
+- 💬 Let's talk about Hackathons, Projects or LLMs.
 - :mailbox_with_mail:<i> Email</i>:  [sharanbabu2001@gmail.com](mailto:sharanbabu2001@gmail.com)
 
 ### LLM projects:
@@ -17,7 +16,6 @@ Currently pursuing a Masters degree in Computer Science.
 - inferO - token stream - context manipulation
 - KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
 - UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
-- Manim Alternative - for explainer videos
 - promptweaver.me - multi-modality parsing
 - Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
