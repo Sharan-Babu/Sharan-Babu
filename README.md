@@ -1,7 +1,7 @@
 ### Hi there, I am Sharan 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sharan-babu.github.io) 
-[![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/file/d/1WiggB27Fvxaipq2EC4ULqpMA7OsxvlpL/view) 
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.babusharan.com/) 
+[![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/file/d/1HlomClcPkzlPei7_d9AEgvGZKFDABwUG/view?usp=sharing) 
 [![Certificates](https://img.shields.io/website?label=Certificates&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/drive/folders/1UW60hjMCKVmR_2KxrkwtZi_4AgwU2ars?usp=sharing)
 
 AI Engineer, recent CS Grad.   
