@@ -13,10 +13,9 @@ AI Engineer, recent CS Grad.
 ### LLM projects:
 
 - SeamlessGen - An inference-time framework for steering LLM generation mid-stream: [Link](https://github.com/Sharan-Babu/seamless_gen)
-- pralok.com - generative UI chat assistant
+- pralok.com - generative UI chat assistant: [Demo](https://www.youtube.com/watch?v=8vEhsKpmUb4)
 - KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
 - UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
-- promptweaver.me - multi-modality parsing
 - Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
 
