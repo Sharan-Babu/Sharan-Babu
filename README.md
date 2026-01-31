@@ -18,6 +18,8 @@ AI Engineer, recent CS Grad.
 - UserSubContext - Context Management Technique for LLMs: [Link](https://github.com/Sharan-Babu/UserSubContext)
 - Unlatent - Second Brain: [Link](https://www.youtube.com/watch?v=AlAXKjClkPI&pp=ygUIdW5sYXRlbnQ%3D)
 
+### Recent Blog post:
+[Thoughts on LLMs](https://www.babusharan.com/blog/thoughts-on-llms)
 
 ### Connect with me:
 
