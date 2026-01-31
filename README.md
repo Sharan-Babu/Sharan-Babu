@@ -36,11 +36,12 @@ AI Engineer, recent CS Grad.
 [twitter]:https://twitter.com/sharanbabu2001
 <br>
 ### Achievements:
-:trophy: <b>TigerGraph Graph Database Million Dollar Challenge</b> - 3rd Prize (Most Innovative Award)<br>
+:trophy: <b>TigerGraph Graph Database Million Dollar Challenge</b> - 3rd Prize (Most Innovative Award) - [Link](https://devpost.com/software/gemini-rqv74l)<br>
+:trophy: <b>AWS Graviton Hackathon</b> - 3rd prize - [Link](https://devpost.com/software/vaccine-appointment)<br>
 :trophy: <b>Facebook F8 Refresh Hackathon</b> - Honorary Award<br>
 :trophy: <b>IBM-Nasscom National Hackathon</b> - Top 16<br>
 :trophy: <b>BitHacks Hackathon</b> - Best Undergraduate Hack<br>
-:trophy: <b>Facebook 2020 Developers Community Challenge</b> - Regional Winner
+:trophy: <b>Facebook 2020 Developers Community Challenge</b> - Regional Winner - [Link](https://github.com/Sharan-Babu/FB_wit)
 <br>
 ## Skills, Languages and Tools
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
