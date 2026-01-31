@@ -12,6 +12,7 @@ AI Engineer, recent CS Grad.
 
 ### LLM projects:
 
+- SeamlessGen - An inference-time framework for steering LLM generation mid-stream: [Link](https://github.com/Sharan-Babu/seamless_gen)
 - pralok.com - generative UI chat assistant
 - inferO - token stream - context manipulation
 - KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
