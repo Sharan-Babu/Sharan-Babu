@@ -12,6 +12,7 @@ AI Engineer, recent CS Grad.
 
 ### LLM projects:
 
+- Source Twin - A shared, readable view of a codebase for people and coding agents: [Link](https://sourcetwin.com/)
 - SeamlessGen - An inference-time framework for steering LLM generation mid-stream: [Link](https://github.com/Sharan-Babu/seamless_gen)
 - pralok.com - generative UI chat assistant: [Demo](https://www.youtube.com/watch?v=8vEhsKpmUb4)
 - KirinEdit - teaching LLMs to edit text. Replace text sequences instead of rewriting: [Link](https://x.com/sharanbabu2001/status/1785723500398870806)
